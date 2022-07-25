@@ -8,7 +8,7 @@ const styles={
     color: 'black',
     display: 'flex',
     flexDirection: 'column',
-    margin: '50px auto',
+    margin: '0 auto',
     padding: '25px',
     borderRadius: '5px'
   }
