@@ -3,7 +3,7 @@ import ProjectCard from "../ProjectCard";
 import imdme from '../../assets/imgs/imdme-homepage.png';
 import password from '../../assets/imgs/password-generator.png'
 
-function Blog() {
+function Portfolio() {
   const [projects] = useState([
     {
       id: "1",
@@ -35,4 +35,4 @@ function Blog() {
   );
 }
 
-export default Blog;
+export default Portfolio;
