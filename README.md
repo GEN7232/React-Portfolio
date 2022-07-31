@@ -1,5 +1,8 @@
 # React Portfolio
   by Genevieve Nelson 
+  https://gen7232.github.io/React-Portfolio/
+  ![Screen Shot 2022-07-31 at 11 19 34 AM](https://user-images.githubusercontent.com/100956840/182033276-81b3a9b0-7b23-46e9-accd-8f21c6582d3a.png)
+
 
   [![MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT) 
 
